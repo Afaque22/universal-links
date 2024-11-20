@@ -9,4 +9,17 @@
       ]
     }
   }
+],
+
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bondfortune",
+      "sha256_cert_fingerprints": [
+        "D6:72:A3:5D:D4:7E:92:70:9F:21:C4:10:00:9B:18:96:2A:B5:DF:6F:FD:63:03:78:A8:7B:AA:93:18:51:78:7E"
+      ]
+    }
+  }
 ]
